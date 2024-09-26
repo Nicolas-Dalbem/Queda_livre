@@ -15,7 +15,7 @@ function iniciarQueda() {
     let altura = 0; 
     const g = 9.8;
     let tempo = 0;
-    const maxAltura = 50; 
+    const maxAltura = 5; 
     
     intervalo = setInterval(() => {
         if (!pausado) {
